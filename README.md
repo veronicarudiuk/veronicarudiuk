@@ -12,6 +12,20 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veronicarudiuk&theme=bear&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  -->
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veronicarudiuk&theme=github_dark&show_icons=true)
+<a href="https://github.com/veronicarudiuk">
+    <img 
+         align="center" 
+         width="47%" 
+         src="https://github-readme-stats.vercel.app/api?username=veronicarudiuk&theme=github_dark&show_icons=true"   
+         />
+<a href="https://github.com/veronicarudiuk">  
+    <img 
+         lign="left" 
+         width="47%" 
+         align="center" 
+         src="http://github-readme-streak-stats.herokuapp.com?user=veronicarudiuk&theme=github-dark-blue" 
+         />
+</a>
+  
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veronicarudiuk&theme=github_dark&show_icons=true) -->
 
