@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Veronica</a> :wave:
-<h3 align="center">iOS Developre, ex-Level Designer. From Belarus. Currently in Georgia </h3>
+<h3 align="center">iOS Developer, ex-Level Designer. From Belarus. Currently in Georgia </h3>
 
 - :book: I'm taking an iOS & Swift Bootcamp course at Udemy by Dr. Angela Yu. Before that, I completed a five-month offline course in iOS development from TMS.
 - :raised_hands: I’m looking for a job as an iOS developer.
