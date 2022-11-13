@@ -20,10 +20,12 @@
          width="47%" 
          align="center" 
          src="http://github-readme-streak-stats.herokuapp.com?user=veronicarudiuk&theme=github-dark-blue" 
-         />
-</a>
-
+         /> 
   
-  [CodeWars](https://www.codewars.com/users/veronicarudiuk) stats
-  ![Codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=veronicarudiuk&badge&colormode=dark_mode)
+  --------------------------------------------------------------------------------
+ 
+  
+  [CodeWars](https://www.codewars.com/users/veronicarudiuk) stats:
+  ![Codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=veronicarudiuk&badge&colormode=bright_mode)
+
 
