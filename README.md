@@ -27,5 +27,6 @@
          />
 </a>
   
+  ![Codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=veronicarudiuk&badge&colormode=dark_mode)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veronicarudiuk&theme=github_dark&show_icons=true) -->
 
