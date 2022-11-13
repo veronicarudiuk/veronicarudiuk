@@ -7,10 +7,6 @@
   - [Linkedin](https://www.linkedin.com/in/veronica-rudiuk-34860b1a9/)
   - Telegram username: @negamr
 
-<!-- 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veronicarudiuk&theme=bear&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
- -->
 
 <a href="https://github.com/veronicarudiuk">
     <img 
@@ -26,7 +22,8 @@
          src="http://github-readme-streak-stats.herokuapp.com?user=veronicarudiuk&theme=github-dark-blue" 
          />
 </a>
+
   
+  [CodeWars](https://www.codewars.com/users/veronicarudiuk) stats
   ![Codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=veronicarudiuk&badge&colormode=dark_mode)
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veronicarudiuk&theme=github_dark&show_icons=true) -->
 
