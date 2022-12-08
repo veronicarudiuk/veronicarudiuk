@@ -22,10 +22,4 @@
          src="http://github-readme-streak-stats.herokuapp.com?user=veronicarudiuk&theme=github-dark-blue" 
          /> 
   
-  --------------------------------------------------------------------------------
- 
-  
-  [CodeWars](https://www.codewars.com/users/veronicarudiuk) stats:
-  ![Codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=veronicarudiuk&badge&colormode=bright_mode)
-
 
