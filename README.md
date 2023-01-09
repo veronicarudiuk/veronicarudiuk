@@ -8,12 +8,6 @@
   - Telegram username: @negamr
 
 
-<a href="https://github.com/veronicarudiuk">
-    <img 
-         align="center" 
-         width="47%" 
-         src="https://github-readme-stats.vercel.app/api?username=veronicarudiuk&theme=github_dark&show_icons=true"   
-         />
 <a href="https://github.com/veronicarudiuk">  
     <img 
          lign="left" 
