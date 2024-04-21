@@ -1,111 +1,229 @@
-<h1 align="center">Hi there, I'm Veronica</a> :wave:
-<h3 align="center">iOS Developer. From Belarus. Currently in Georgia </h3>
+# Hi there, I'm Veronica 👋
+### iOS Developer. From Belarus. Currently in Georgia
 
 - :raised_hands: I’m looking for a job as an iOS developer.
-- [My CV](https://github.com/veronicarudiuk/CV/blob/main/IOS%20developer%20(Veronica%20Rudiuk).pdf)
-- 📫 How to reach me: 
-  - [Linkedin](https://www.linkedin.com/in/veronica-rudiuk-34860b1a9/)
-  - Telegram username: @negamr
+- [View My CV](https://github.com/veronicarudiuk/CV/blob/main/IOS%20developer%20(Veronica%20Rudiuk).pdf)
+- 📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/veronica-rudiuk-34860b1a9/)
+  - Telegram: @negamr
 
-At the moment, I have 8 completed apps for the third-party client.
-- My go-to services and tools: Jira, Figma, GitHub, Quicktype.io, Terminal, Xcode, Postman, GitHubDesktop.
-- I develop iOS apps using MVVM + Coordinator + DI pattern along with following APIs: UIKit, Foundation, CoreData.
-- I develop apps UI via Programmatic approach;
-- Network REST APIs I used -> api-football, newsdata.io, transfermarket.p.rapidapi.com, fantasy.premierleague;
-- I used to work with such CocoaPods as: Lottie, SnapKit, SafariServices, XLPagerTabStrip, Charts, UnityAds, etc;
+I have programmed over 10 applications from scratch for third-party clients.
+- **Go-to services and tools**: Jira, Figma, GitHub, Quicktype.io, Terminal, Xcode, Postman, GitHub Desktop.
+- **Development patterns**: MVVM, Coordinator, Dependency Injection.
+- **Technologies**: SwiftUI, UIKit, Realm, CoreData, Firebase.
+- **UI Development**: Programmatic approach.
+- **APIs used**: api-football, newsdata.io, api-sports.io, transfermarket.p.rapidapi.com, fantasy.premierleague.
+- **CocoaPods**: Lottie, SnapKit, SafariServices, XLPagerTabStrip, Charts, UnityAds.
 
-<h2 align="center"> Description of some of my finished apps could be found below </h2>
-<h3 align="left"> Sports puzzles game </h3>
+---
 
+## Descriptions of Some of My Finished Apps
+
+### Challenge Tracker App
+[**Example of an app design**](https://apps.apple.com/us/app/activy-sports-challenges/id1273195093)
+
+#### Overview
+An app to track and complete daily sports exercise challenges.
+
+#### Key Features
+- **Variety of Challenges**: Squats, push-ups, yoga, etc.
+- **Progression**: Challenges are divided into days with specific exercises.
+- **Customization**: Choose any number of challenges.
+- **Calendar**: Track progress with an expandable calendar.
+- **Repetition**: Repeat challenges indefinitely.
+- **Sharing**: Share results with friends.
+
+#### Technologies
+- **UI**: SwiftUI.
+- **Architecture**: MVVM.
+- **Dependencies**: DependencyContainer.
+- **Data Storage**: Realm.
+- **Animations**: Lottie.
+
+---
+
+### Personalized Sports Events and News App
+[**Example of an app design**](https://dribbble.com/shots/20329965-Strive-Mobile-App-Animation)
+
+#### Overview
+Customize and save sports events and news based on personal preferences.
+
+#### Key Features
+- **Authentication**: Secure registration and login via Firebase.
+- **Onboarding**: Set preferences for leagues and news themes.
+- **Custom Dashboard**: Curated events and news on the main screen.
+- **Details**: In-depth event and news information.
+- **Management**: Delete saved items.
+- **Settings**: Modify user information or delete account.
+
+#### Technologies
+- **UI**: SwiftUI.
+- **Architecture**: MVVM.
+- **Dependencies**: DependencyContainer.
+- **Database**: Firebase.
+- **Animations**: Lottie.
+
+---
+
+### Past Football Matches Viewer App With Widgets
+[**Example of an app**](https://apps.apple.com/by/app/xfootball/id1540514245)
+
+#### Overview
+Detailed views and personalization for past football matches.
+
+#### Key Features
+- **Onboarding**: Introductory user guide.
+- **Match Details**: Comprehensive information including scores, formations, rosters, and statistics.
+- **Save and Review**: Save matches and notes for later review.
+- **Widgets**: Customizable widgets for quick access.
+
+#### Technologies
+- **UI**: SwiftUI.
+- **Architecture**: MVVM.
+- **Dependencies**: DependencyContainer.
+- **Database**: CoreData.
+- **Enhancements**: Widgets.
+
+---
+
+### Sports Challenge Social Network App
+[**Example of an app**](https://apps.apple.com/by/app/win-sport-win-life/id1612519133)
+
+#### Overview
+A network for creating and participating in sports challenges.
+
+#### Key Features
+- **Registration and Login**: Via Firebase with customization options.
+- **Challenge Creation**: Linked to sports matches or independently created.
+- **Types of Sports**: Football, tennis, basketball, baseball.
+- **Points System**: Points for creating, completing, or failing challenges.
+- **Social**: View participants and share challenges.
+
+#### Technologies
+- **UI**: SwiftUI.
+- **Architecture**: MVVM.
+- **Dependencies**: DependencyContainer.
+- **Database**: Firebase.
+
+---
+
+### Build Your Football Team
+[**Example of an app**](https://apps.apple.com/by/app/kickbase-bundesliga-fantasy/id678241305)
+
+#### Key Features
+- **Customization**: Create and customize a football team.
+- **Player Browsing**: Scroll through players using `CollectionViewPagingLayout`.
+- **Filter**: Filter players by team.
+- **Field Setup**: Customize the football field and player positions.
+- **Management**: Name the team and upload a logo.
+- **Extras**: View team statistics and share or download the setup.
+
+#### Technologies
+- **UI**: UIKit.
+- **Frameworks**: Lottie, SnapKit, AdvancedPageControl, CollectionViewPagingLayout.
+- **Architecture**: MVVM, Coordinator.
+- **Database**: CoreData.
+
+---
+
+### Sports Puzzles Game
 [**Example of an app**](https://apps.apple.com/us/app/jigsaw-puzzles-puzzle-games/id1324604053?platform=iphone)
 
-The starting wallet is equal to 500 coins. To open new pictures and collections, the user must earn coins by passing the available puzzles.  
+#### Overview
+Solve puzzles and earn coins through gameplay enhancements.
 
-Depending on the selected difficulty level, the amount of winnings changes. The level of difficulty depends on the number of puzzle pieces, into which the selected picture is divided.  
-After the user collects the whole picture, there is a pop up with the ability to double the number of won coins by watching ads. 
-There is a function to add your own pictures and collect them in the form of puzzles. 
-There is a store with the ability to buy coins and hints by watching ads using UnityAds.   
-Tab bar is implemented using FXPageControl, allowing the user to move smoothly between screens.  
+#### Key Features
+- **Gameplay**: Start with coins and earn more by solving puzzles.
+- **Difficulty**: Select the number of puzzle pieces.
+- **Rewards**: Double coins by watching ads.
+- **Personalization**: Add personal puzzles.
+- **Purchases**: Buy coins and hints via UnityAds.
+- **Navigation**: FXPageControl for smooth transitions.
 
-
-**App created using:** UIKit + MVVM + Coordinator + POP + SOLID + CoreData + Lottie + SnapKit + UnityAds.
+#### Technologies
+- **UI**: UIKit.
+- **Frameworks**: Lottie, SnapKit, UnityAds.
+- **Architecture**: MVVM, Coordinator.
+- **Database**: CoreData.
 
 ---
 
-
-<h3 align="left">Focus tracker for sports training </h3>
-
+### Focus Tracker for Sports Training
 [**Example of an application**](https://apps.apple.com/ua/app/plantie-stay-focused/id1135988868?l=uk)
 
-A time management app that allows user to stay focused on his workout.
-User can buy sports balls, get rewards, view statistics, and more.   
+#### Overview
+Stay focused during sports training and manage goals.
 
-**App created using:** UIKit + MVVM + Coordinator + POP + SOLID + CoreData + Lottie + SnapKit.
+#### Key Features
+- **Focus Management**: Enhance concentration during workouts.
+- **Rewards**: Earn rewards and track progress.
+- **Customization**: Personalize training experience.
+
+#### Technologies
+- **UI**: UIKit.
+- **Frameworks**: Lottie, SnapKit.
+- **Architecture**: MVVM, Coordinator.
+- **Database**: CoreData.
 
 ---
 
-<h3 align="left">Betting calculator app </h3>
-
+### Betting Calculator App
 [**Example of an app**](https://apps.apple.com/ua/app/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-parimatch/id1555665393?l=ru&platform=iphone)
+([**Express Systems calculator formula example**](https://faq.parimatch.com/ru/calculator/))
 
-The user can calculate the rate using two formulas:
+#### Overview
+Calculate betting odds using formulas and save history.
 
-Express Systems Calculator Formula ([**example**](https://faq.parimatch.com/ru/calculator/))
+#### Key Features
+- **Tools**: Use Express Systems and Kelly formula for calculations.
+- **History**: Track and view past calculations.
+- **User Interface**: Custom animations for better user experience.
 
-Kelly formula
-The history of calculations is saved on a separate screen. Added custom loading and ticker animations. 
-
-**App created using:** UIKit + MVVM + Coordinator + POP + SOLID + CoreData.
+#### Technologies
+- **UI**: UIKit.
+- **Database**: CoreData.
+- **Architecture**: MVVM, Coordinator.
 
 ---
 
-<h3 align="left">Word Search Puzzle </h3>
-
+### Word Search Puzzle
 [**Example of an app**](https://apps.apple.com/by/app/word-search-word-find-games/id1463577765)
 
+#### Overview
+Find words from scrambled letters and earn rewards.
 
-By combining letters the user must find certain words. When he selects all the words the level will be considered complete.
+#### Key Features
+- **Gameplay**: Search for words to complete levels.
+- **Incentives**: Earn coins for hints by watching ads.
+- **Ads**: Monetized through UnityAds.
 
-To find letters the user can take hints. Hints can be purchased for coins. Coins are earned by watching ads. The UnityAds is used to show advertisements.
-
-
-**App created using:** UIKit + MVVM + Coordinator + POP + SOLID + CoreData + UnityAds.
+#### Technologies
+- **UI**: UIKit.
+- **Database**: CoreData.
+- **Frameworks**: UnityAds.
+- **Architecture**: MVVM, Coordinator.
 
 ---
 
-
-<h3 align="left">Football Stats apps </h3>
-
+### Football Stats Apps
+Three apps with the same functionality and different layout.
 [**Example of an apps**](https://apps.apple.com/by/app/sofascore-live-score-app/id1176147574)  
 
+#### Overview
+Track football matches and statistics across various leagues.
 
-I made three apps for viewing match schedules:
-* App allows user to monitor matches from most of the football leagues worldwide with division on past/live/upcoming games using api-football as a source of data. User has opportunity to predict the score and save it by applying selection on match details screen. User can also view football news that was taken from the api newsdata.io.
-* Another application for viewing match schedules, where the user can save his guesses about the score of the game. Matches can be searched and filtered by date. It is also possible to view by date the matches where the user's guesses are saved. In the match details, depending on the status of the match, you can make guesses, view match statistics, team comparisons, club table and the positioning of players on the field. Charts is used to display a pie chart of statistics. On a separate screen you can see information about the top 10 clubs. Match information is used from transfermarket.p.rapidapi.com.
-* It is also an application for viewing match schedules, with the ability to save game score guesses. 
-Unlike previous applications, the user can leave notes for each match. It also displays match guesses taken from the api and on a separate screen there is a rating of players. 
-For swiping matches cells I implemented a custom carousel animation.
-Match information is used from api-football.
+#### Key Features
+- **Match Monitoring**: Follow past, live, and upcoming games.
+- **Interaction**: Predict scores and view analytics.
+- **Sources**: Multiple API integrations for real-time data.
+- **Animations**: Custom animations for match navigation.
 
-
-**Apps created using:** UIKit +  SOLID + MVVM + CoreData.
-
----
-
-For more information, please contact me. 
-
-* [Linkedin](https://www.linkedin.com/in/veronica-rudiuk-34860b1a9/)
-
-* Telegram username: @negamr
+#### Technologies
+- **UI**: UIKit.
+- **Database**: CoreData.
+- **Architecture**: MVVM.
 
 ---
 
- <a href="https://github.com/veronicarudiuk">
-    <img 
-         align="center" 
-         width="47%" 
-         src="https://github-readme-stats.vercel.app/api?username=veronicarudiuk&theme=github_dark&show_icons=true"   
-         />
-
- 
+For further information, please contact me via [LinkedIn](https://www.linkedin.com/in/veronica-rudiuk-34860b1a9/) or Telegram @negamr.
 
