@@ -2,7 +2,7 @@
 ### iOS Developer. From Belarus. Currently in Georgia
 
 - :raised_hands: I’m looking for a job as an iOS developer.
-- [View My CV](https://github.com/veronicarudiuk/CV/blob/main/IOS%20developer%20(Veronica%20Rudiuk).pdf)
+- [View My CV](https://github.com/veronicarudiuk/CV/blob/main/CV-Rudiuk-Veronica.pdf) 
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/veronica-rudiuk-34860b1a9/)
   - Telegram: @negamr
