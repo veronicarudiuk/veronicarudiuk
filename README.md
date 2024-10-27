@@ -7,17 +7,67 @@
   - [LinkedIn](https://www.linkedin.com/in/veronica-rudiuk-34860b1a9/)
   - Telegram: @negamr
 
-I have programmed over 10 applications from scratch for third-party clients.
+I have programmed over 14 applications from scratch for third-party clients.
 - **Go-to services and tools**: Jira, Figma, GitHub, Quicktype.io, Terminal, Xcode, Postman, GitHub Desktop.
 - **Development patterns**: MVVM, Coordinator, Dependency Injection.
-- **Technologies**: SwiftUI, UIKit, Realm, CoreData, Firebase.
+- **Technologies**: SwiftUI, UIKit, Realm, CoreData, Firebase, MapKit, Combine.
 - **UI Development**: Programmatic approach.
-- **APIs used**: api-football, newsdata.io, api-sports.io, transfermarket.p.rapidapi.com, fantasy.premierleague.
-- **CocoaPods**: Lottie, SnapKit, SafariServices, XLPagerTabStrip, Charts, UnityAds.
+- **APIs used**: api-football, newsdata.io, api-sports.io, transfermarket.p.rapidapi.com, fantasy.premierleague, api.foursquare.com, horoscope-astrology.p.rapidapi.com.
+- **Libraries**: Lottie, SnapKit, SafariServices, XLPagerTabStrip, Charts, UnityAds.
 
 ---
 
 ## Descriptions of Some of My Finished Apps
+
+### Clothing Store App
+[**Example of an app design**](https://apps.apple.com/ge/app/the-luxury-closet-buy-sell/id1085470991)
+
+#### Overview
+A versatile clothing app where users can browse men’s and women’s collections, save favorites, and make purchases effortlessly. Users can register, view nearby stores on a map, and explore each store’s details. With added convenience, users can access order history and get directions to their preferred stores.
+
+#### Key Features
+- **Wide Clothing Selection**: Explore a broad range of men’s and women’s clothing styles.
+- **Favorites**: Save your preferred items to the Favorites section for quick access.
+- **Shopping Cart**: Easily add items to your cart and place orders directly through the app.
+- **Order History**: Access a detailed history of your previous orders.
+- **Registration**: Register with name, email, and select your nearest store.
+- **Location-Based Store Suggestions**: Enable location permissions to see stores near you; otherwise, default to New York.
+- **Store Map View**: View nearby stores on an interactive map with detailed store information.
+- **Store Details**: Check out store hours, reviews, photos, and more.
+- **Route Navigation**: Get directions from your location to the selected store.
+
+#### Technologies
+- **UI**: SwiftUI.
+- **Architecture**: MVVM.
+- **Dependencies**: DependencyContainer.
+- **Data Storage**: Core Data.
+- **Data Binding**: Combine.
+- **Map Integration**: MapKit.
+- **Animations**: Lottie.
+
+---
+
+### Horoscope App
+[**Example of an app design**](https://apps.apple.com/ge/app/the-dailyhoroscope/id363920434)
+
+#### Overview
+An astrology app that offers personalized daily horoscopes, zodiac compatibility insights, and numerology information. Users can also switch their zodiac sign to receive daily updates tailored to their chosen sign.
+
+#### Key Features
+- **Daily Horoscopes**: Receive personalized daily horoscopes based on your zodiac sign.
+- **Zodiac Compatibility**: Discover compatibility insights between any two zodiac signs.
+- **Numerology Insights**: Explore detailed numerology readings for added personal guidance.
+- **Customizable Sign**: Easily switch your zodiac sign to receive updates tailored to a new sign.
+
+#### Technologies
+- **UI**: SwiftUI.
+- **Architecture**: MVVM.
+- **Dependencies**: DependencyContainer.
+- **Data Storage**: UserDefaults.
+- **Data Binding**: Combine.
+- **Animations**: Lottie.
+
+---
 
 ### Challenge Tracker App
 [**Example of an app design**](https://apps.apple.com/us/app/activy-sports-challenges/id1273195093)
